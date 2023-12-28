@@ -11,7 +11,7 @@ In this lab, you will assume the role of a data analyst at a retail giant, STA S
 ### Requirement
 * Basic knowledge of Python libraries such as NumPy, Pandas, matplotlib, statsmodel etc.
 * Familiarity with time series forecasting models such as ARIMA and SARIMA
-*Knowledge of creating charts and graphs using Python
+* Knowledge of creating charts and graphs using Python
 * Ability to group and aggregate the data in Python
 
 ### What you'll learn
