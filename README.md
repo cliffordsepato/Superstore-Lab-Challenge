@@ -20,5 +20,4 @@ In this lab, you will assume the role of a data analyst at a retail giant, STA S
 * Data aggregation for comparing category-wise performance
 * Analyzing and summarizing data using Python
 
-### Credit
-Start-Tech Academy
+By Start-Tech Academy
